@@ -6,8 +6,4 @@ using System.Web.Mvc;
 
 namespace WebApplication_new.Controllers
 {
-    public class HomeController : Controller
-    {
-     
-    }
-}
+    
